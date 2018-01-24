@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Irving Gómez from DG Studio
